@@ -114,6 +114,10 @@
                     <value>c03112</value>
                     <newvalue>4B rev 1.2 4GB</newvalue>
                 </mapping>
+                <mapping>
+                    <value>d04171</value>
+                    <newvalue>5B rev 1.1 8GB</newvalue>
+                </mapping>
             </mappings>
         </value_map>
     </value_maps>
